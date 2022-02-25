@@ -3,5 +3,9 @@ public class FirstClass {
         System.out.println("hi World");
         System.out.println("sup");
         System.out.println("Babyy");
+         System.out.println("yy");
+         System.out.println("peace");
+          System.out.println("peace");
+          System.out.println("peace");
     }
 }
