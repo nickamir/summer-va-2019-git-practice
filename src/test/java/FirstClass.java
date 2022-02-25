@@ -7,5 +7,8 @@ public class FirstClass {
          System.out.println("peace");
           System.out.println("peace");
           System.out.println("peace");
+        System.out.println("warrrrrrrrr");
+        System.out.println("WW3");
+      
     }
 }
