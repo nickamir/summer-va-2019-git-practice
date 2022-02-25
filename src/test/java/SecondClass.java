@@ -3,5 +3,6 @@ public class SecondClass {
 
         String myname = "Nekruz";
         System.out.println(myname);
+        System.out.println("Soccer is a part of life");
     }
 }
